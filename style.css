@@ -1,0 +1,17 @@
+body{
+background: gold;
+}
+h1{
+  margin: 0 auto;
+  transition: border 2s ease-in-out;
+  width: max-content;
+}
+h1:hover{
+border-bottom: 10px dotted red;
+}
+p{
+background: red;
+margin: 10px;
+font-size: 20px;
+text-align: center;
+}
